@@ -1,0 +1,1002 @@
+purchaseId,productLine,customerId,purchaseDate,purchaseMethod,purchaseTime
+1001,Harmony Microphone,1001,2022-09-11,In-store,08:47:44
+1002,Apple 2023 Mac Mini M2 Chip,1002,2022-06-01,In-store,01:55:36
+1003,Apple Smartwatch,1003,2022-07-21,Online,23:04:39
+1004,Apple Smartwatch,1004,2022-04-01,In-store,05:10:05
+1005,AIMES Mens Watches,1005,2022-03-06,Online,17:17:45
+1006,Oculus VR,1006,2022-04-23,In-store,10:53:36
+1007,Arduino,1007,2022-02-25,Online,19:56:05
+1008,Oculus VR,1008,2022-10-31,Online,10:55:21
+1009,Bose Headphones,1009,2022-07-07,Online,14:58:31
+1010,ASUS Zenbook S 13,1010,2022-11-08,Online,20:58:29
+1011,Apple Smartwatch,1011,2022-03-21,Online,18:07:31
+1012,Bose Headphones,1012,2022-12-26,In-store,22:58:08
+1013,AirPods,1013,2022-06-30,In-store,16:35:34
+1014,2022 Macbook Pro,1014,2022-10-13,Online,01:08:37
+1015,Arduino,1015,2022-08-22,In-store,01:31:30
+1016,Arduino,1016,2022-11-21,Online,18:09:55
+1017,Oculus VR,1017,2022-12-20,In-store,14:04:22
+1018,Raspberry Pi,1018,2022-08-16,Online,01:44:51
+1019,JBL Charge 4 Speakers,1019,2022-01-26,Online,14:35:13
+1020,AIMES Mens Watches,1020,2022-11-27,In-store,22:58:40
+1021,JBL Charge 4 Speakers,1021,2022-12-27,In-store,02:38:28
+1022,Bose Headphones,1022,2022-09-21,In-store,23:25:39
+1023,Raspberry Pi,1023,2022-03-20,Online,14:16:50
+1024,JBL Charge 4 Speakers,1024,2022-12-04,In-store,05:23:42
+1025,Bose QuietComfort Earbuds II,1025,2022-06-02,In-store,12:15:58
+1026,Apple Smartwatch,1026,2022-12-15,Online,00:15:18
+1027,ASUS Zenbook S 13,1027,2022-10-26,Online,21:47:04
+1028,JBL Charge 4 Speakers,1028,2022-06-07,In-store,02:24:16
+1029,Raspberry Pi,1029,2022-05-06,In-store,15:39:06
+1030,Raspberry Pi,1030,2022-01-17,In-store,06:07:11
+1031,Oculus VR,1031,2022-10-01,In-store,19:42:28
+1032,Arduino,1032,2022-10-14,In-store,02:03:30
+1033,ASUS Zenbook S 13,1033,2022-01-21,In-store,14:15:37
+1034,Bose Headphones,1034,2022-08-30,In-store,01:19:49
+1035,Bose Headphones,1035,2022-04-12,In-store,12:06:59
+1036,Galaxy Tablet,1036,2022-07-23,Online,07:38:01
+1037,ASUS Zenbook S 13,1037,2022-09-02,In-store,23:20:36
+1038,AirPods,1038,2022-05-15,In-store,22:28:18
+1039,AIMES Mens Watches,1039,2022-09-22,In-store,13:59:32
+1040,JBL Charge 4 Speakers,1040,2022-10-08,In-store,05:13:46
+1041,Raspberry Pi,1041,2022-08-07,In-store,13:40:16
+1042,Apple 2023 Mac Mini M2 Chip,1042,2022-11-23,Online,10:02:07
+1043,Arduino,1043,2022-10-03,Online,02:51:14
+1044,Apple Ipad,1044,2022-02-16,In-store,04:26:22
+1045,Raspberry Pi,1045,2022-12-18,Online,17:14:06
+1046,Bose Headphones,1046,2022-11-23,In-store,05:43:48
+1047,Apple Ipad,1047,2022-06-15,In-store,06:21:15
+1048,Apple Smartwatch,1048,2022-12-18,In-store,22:15:12
+1049,2022 Macbook Pro,1049,2022-06-19,Online,02:54:22
+1050,Arduino,1050,2022-07-07,Online,11:44:26
+1051,Apple 2023 Mac Mini M2 Chip,1051,2022-11-08,In-store,20:21:03
+1052,Raspberry Pi,1052,2022-12-10,In-store,10:58:03
+1053,AIMES Mens Watches,1053,2022-11-15,Online,06:12:53
+1054,2022 Macbook Pro,1054,2022-05-19,In-store,08:51:43
+1055,Arduino,1055,2022-07-15,In-store,04:36:31
+1056,Harmony Microphone,1056,2022-09-09,Online,08:34:56
+1057,AirPods,1057,2022-02-01,In-store,07:05:44
+1058,AIMES Mens Watches,1058,2022-01-05,Online,17:37:09
+1059,Galaxy Tablet,1059,2022-11-11,Online,23:20:19
+1060,ASUS Zenbook S 13,1060,2022-02-09,In-store,12:05:45
+1061,Oculus VR,1061,2022-07-23,Online,06:35:56
+1062,Raspberry Pi,1062,2022-02-05,Online,03:13:00
+1063,Oculus VR,1063,2022-07-20,In-store,23:18:56
+1064,Raspberry Pi,1064,2022-05-15,In-store,04:35:30
+1065,Apple Smartwatch,1065,2022-11-10,Online,10:16:24
+1066,JBL Charge 4 Speakers,1066,2022-07-22,Online,12:07:57
+1067,Apple Ipad,1067,2022-07-08,Online,22:15:35
+1068,Apple 2023 Mac Mini M2 Chip,1068,2022-11-16,In-store,08:40:03
+1069,ASUS Zenbook S 13,1069,2022-01-26,In-store,03:17:13
+1070,AIMES Mens Watches,1070,2022-01-03,In-store,11:50:40
+1071,Oculus VR,1071,2022-01-25,Online,04:22:08
+1072,AirPods,1072,2022-09-18,Online,15:08:55
+1073,Arduino,1073,2022-11-12,In-store,15:54:43
+1074,Apple Smartwatch,1074,2022-07-26,In-store,09:45:27
+1075,Apple Smartwatch,1075,2022-10-04,Online,12:54:23
+1076,Galaxy Tablet,1076,2022-02-14,In-store,02:29:14
+1077,Bose Headphones,1077,2022-11-28,Online,10:14:43
+1078,Bose Headphones,1078,2022-06-05,In-store,05:46:29
+1079,Oculus VR,1079,2022-01-07,In-store,05:38:23
+1080,Raspberry Pi,1080,2022-11-23,In-store,13:16:24
+1081,Bose Headphones,1081,2022-07-26,In-store,03:19:27
+1082,Arduino,1082,2022-11-11,In-store,01:41:59
+1083,Bose QuietComfort Earbuds II,1083,2022-06-12,In-store,05:38:51
+1084,Harmony Microphone,1084,2022-08-31,Online,14:51:32
+1085,Apple 2023 Mac Mini M2 Chip,1085,2022-02-12,Online,09:39:07
+1086,Bose QuietComfort Earbuds II,1086,2022-05-26,In-store,07:43:53
+1087,2022 Macbook Pro,1087,2022-04-20,Online,17:43:43
+1088,Arduino,1088,2022-07-13,In-store,04:08:48
+1089,Apple Ipad,1089,2022-03-05,In-store,06:51:19
+1090,Galaxy Tablet,1090,2022-11-29,In-store,10:23:09
+1091,2022 Macbook Pro,1091,2022-06-10,In-store,05:57:39
+1092,Harmony Microphone,1092,2022-02-23,Online,22:14:27
+1093,ASUS Zenbook S 13,1093,2022-11-27,Online,08:10:30
+1094,AIMES Mens Watches,1094,2022-12-19,In-store,22:21:35
+1095,Raspberry Pi,1095,2022-03-13,In-store,16:35:10
+1096,Apple Smartwatch,1096,2022-01-10,In-store,17:43:22
+1097,Arduino,1097,2022-04-08,In-store,08:59:04
+1098,Galaxy Tablet,1098,2022-03-02,In-store,11:12:19
+1099,Galaxy Tablet,1099,2022-11-28,In-store,15:09:02
+1100,Apple Smartwatch,1100,2022-09-25,Online,07:09:54
+1101,Harmony Microphone,1101,2022-06-28,Online,21:58:00
+1102,AIMES Mens Watches,1102,2022-11-22,Online,11:01:31
+1103,Raspberry Pi,1103,2022-08-10,Online,06:59:28
+1104,Oculus VR,1104,2022-08-21,In-store,17:09:37
+1105,Raspberry Pi,1105,2022-03-15,Online,17:03:47
+1106,ASUS Zenbook S 13,1106,2022-12-04,In-store,21:13:44
+1107,Galaxy Tablet,1107,2022-12-17,Online,02:03:36
+1108,Oculus VR,1108,2022-12-15,Online,01:44:04
+1109,JBL Charge 4 Speakers,1109,2022-04-08,In-store,03:28:23
+1110,JBL Charge 4 Speakers,1110,2022-04-08,In-store,09:51:37
+1111,2022 Macbook Pro,1111,2022-08-15,In-store,15:37:35
+1112,Bose QuietComfort Earbuds II,1112,2022-06-12,Online,22:58:32
+1113,Apple Ipad,1113,2022-06-27,Online,05:32:26
+1114,Apple 2023 Mac Mini M2 Chip,1114,2022-04-15,In-store,08:48:42
+1115,AIMES Mens Watches,1115,2022-03-04,Online,17:53:04
+1116,Bose Headphones,1116,2022-12-10,In-store,21:46:13
+1117,Harmony Microphone,1117,2022-05-14,Online,12:14:27
+1118,ASUS Zenbook S 13,1118,2022-01-27,In-store,22:09:07
+1119,ASUS Zenbook S 13,1119,2022-10-17,Online,02:18:43
+1120,Raspberry Pi,1120,2022-04-09,In-store,04:28:29
+1121,Apple Smartwatch,1121,2022-11-18,In-store,09:36:46
+1122,Bose Headphones,1122,2022-03-26,In-store,14:32:36
+1123,Raspberry Pi,1123,2022-05-23,Online,21:38:10
+1124,AirPods,1124,2022-03-09,Online,13:01:45
+1125,Oculus VR,1125,2022-11-17,Online,09:01:33
+1126,2022 Macbook Pro,1126,2022-04-27,In-store,01:22:07
+1127,JBL Charge 4 Speakers,1127,2022-10-05,In-store,18:29:32
+1128,Bose Headphones,1128,2022-01-10,In-store,00:21:34
+1129,Apple Smartwatch,1129,2022-05-19,Online,17:59:30
+1130,2022 Macbook Pro,1130,2022-05-04,Online,23:19:15
+1131,AIMES Mens Watches,1131,2022-04-16,In-store,13:40:25
+1132,Oculus VR,1132,2022-01-24,In-store,12:33:52
+1133,AirPods,1133,2022-04-11,Online,11:51:43
+1134,AIMES Mens Watches,1134,2022-04-03,Online,18:58:34
+1135,Apple 2023 Mac Mini M2 Chip,1135,2022-10-14,Online,11:17:31
+1136,JBL Charge 4 Speakers,1136,2022-04-04,In-store,23:24:02
+1137,Bose Headphones,1137,2022-06-05,Online,03:46:01
+1138,AIMES Mens Watches,1138,2022-12-01,In-store,16:06:36
+1139,ASUS Zenbook S 13,1139,2022-04-06,In-store,15:51:00
+1140,2022 Macbook Pro,1140,2022-09-26,Online,23:07:27
+1141,Arduino,1141,2022-11-28,In-store,05:49:41
+1142,Apple Ipad,1142,2022-12-17,In-store,15:20:04
+1143,Apple 2023 Mac Mini M2 Chip,1143,2022-08-27,In-store,01:33:45
+1144,AIMES Mens Watches,1144,2022-11-13,In-store,20:46:19
+1145,Apple 2023 Mac Mini M2 Chip,1145,2022-01-13,In-store,20:01:30
+1146,ASUS Zenbook S 13,1146,2022-03-31,Online,09:37:03
+1147,AIMES Mens Watches,1147,2022-09-04,In-store,03:46:56
+1148,Apple Smartwatch,1148,2022-06-08,In-store,07:23:22
+1149,Raspberry Pi,1149,2022-01-18,Online,16:48:31
+1150,Galaxy Tablet,1150,2022-03-16,Online,21:24:45
+1151,Apple 2023 Mac Mini M2 Chip,1151,2022-05-21,In-store,07:31:33
+1152,Bose QuietComfort Earbuds II,1152,2022-08-28,Online,03:37:52
+1153,Harmony Microphone,1153,2022-06-27,In-store,01:03:41
+1154,2022 Macbook Pro,1154,2022-11-07,In-store,16:32:18
+1155,Raspberry Pi,1155,2022-07-23,Online,16:04:22
+1156,Apple Smartwatch,1156,2022-08-28,In-store,11:50:57
+1157,Apple Smartwatch,1157,2022-01-05,In-store,22:23:33
+1158,JBL Charge 4 Speakers,1158,2022-12-04,In-store,23:20:56
+1159,Apple Smartwatch,1159,2022-12-17,In-store,23:29:11
+1160,Raspberry Pi,1160,2022-12-29,In-store,21:38:22
+1161,Raspberry Pi,1161,2022-09-02,In-store,12:02:39
+1162,Bose QuietComfort Earbuds II,1162,2022-01-11,In-store,11:38:14
+1163,Arduino,1163,2022-07-03,Online,06:15:26
+1164,Bose Headphones,1164,2022-05-31,Online,15:13:01
+1165,Bose Headphones,1165,2022-06-22,In-store,05:22:23
+1166,JBL Charge 4 Speakers,1166,2022-04-11,Online,13:22:34
+1167,JBL Charge 4 Speakers,1167,2022-12-04,In-store,08:55:00
+1168,AirPods,1168,2022-12-11,In-store,20:22:18
+1169,ASUS Zenbook S 13,1169,2022-12-25,Online,03:19:08
+1170,ASUS Zenbook S 13,1170,2022-03-16,Online,03:31:08
+1171,Harmony Microphone,1171,2022-07-21,Online,17:00:56
+1172,JBL Charge 4 Speakers,1172,2022-09-15,Online,08:22:50
+1173,Harmony Microphone,1173,2022-10-29,In-store,00:40:28
+1174,Arduino,1174,2022-06-23,In-store,02:06:19
+1175,Oculus VR,1175,2022-07-02,In-store,06:30:11
+1176,AirPods,1176,2022-02-16,In-store,12:31:37
+1177,Bose Headphones,1177,2022-03-21,In-store,14:45:41
+1178,Raspberry Pi,1178,2022-07-08,Online,13:35:56
+1179,Arduino,1179,2022-02-21,Online,23:35:55
+1180,Apple 2023 Mac Mini M2 Chip,1180,2022-02-04,In-store,01:34:05
+1181,Oculus VR,1181,2022-12-20,Online,23:51:14
+1182,Apple Smartwatch,1182,2022-10-21,Online,22:50:50
+1183,Oculus VR,1183,2022-07-19,In-store,06:44:22
+1184,Raspberry Pi,1184,2022-04-26,Online,00:22:25
+1185,AirPods,1185,2022-03-08,Online,22:17:03
+1186,AirPods,1186,2022-06-28,Online,23:32:12
+1187,2022 Macbook Pro,1187,2022-12-14,Online,15:34:20
+1188,Harmony Microphone,1188,2022-12-10,Online,06:37:09
+1189,Apple Smartwatch,1189,2022-02-23,In-store,02:19:43
+1190,AIMES Mens Watches,1190,2022-05-15,Online,07:52:39
+1191,Bose Headphones,1191,2022-01-04,In-store,13:18:50
+1192,Apple Smartwatch,1192,2022-07-03,In-store,14:02:01
+1193,ASUS Zenbook S 13,1193,2022-12-27,Online,16:55:15
+1194,Apple Smartwatch,1194,2022-03-15,Online,02:26:30
+1195,Bose QuietComfort Earbuds II,1195,2022-02-06,Online,23:28:31
+1196,Galaxy Tablet,1196,2022-05-17,Online,04:05:45
+1197,Raspberry Pi,1197,2022-03-29,Online,13:12:06
+1198,2022 Macbook Pro,1198,2022-10-21,In-store,05:32:45
+1199,Apple Ipad,1199,2022-02-27,Online,02:04:36
+1200,Apple Ipad,1200,2022-09-28,In-store,16:25:36
+1201,Arduino,1201,2022-11-23,Online,21:25:00
+1202,Arduino,1202,2022-06-07,In-store,00:57:08
+1203,Arduino,1203,2022-10-06,Online,15:06:55
+1204,Apple 2023 Mac Mini M2 Chip,1204,2022-09-03,In-store,13:42:43
+1205,Bose QuietComfort Earbuds II,1205,2022-02-11,In-store,18:18:18
+1206,Apple Smartwatch,1206,2022-06-06,In-store,01:45:59
+1207,Arduino,1207,2022-03-11,In-store,19:26:16
+1208,AIMES Mens Watches,1208,2022-05-03,Online,09:45:09
+1209,AirPods,1209,2022-05-07,Online,08:39:12
+1210,Galaxy Tablet,1210,2022-07-15,In-store,15:04:20
+1211,Apple Ipad,1211,2022-11-03,Online,03:17:11
+1212,2022 Macbook Pro,1212,2022-11-25,In-store,22:50:35
+1213,AirPods,1213,2022-12-24,In-store,09:35:09
+1214,ASUS Zenbook S 13,1214,2022-10-27,Online,23:29:45
+1215,AIMES Mens Watches,1215,2022-05-26,Online,23:49:34
+1216,AIMES Mens Watches,1216,2022-06-26,Online,09:29:08
+1217,Raspberry Pi,1217,2022-02-07,In-store,10:56:52
+1218,Galaxy Tablet,1218,2022-12-19,In-store,14:36:18
+1219,AIMES Mens Watches,1219,2022-05-11,Online,15:54:25
+1220,ASUS Zenbook S 13,1220,2022-05-27,In-store,17:28:25
+1221,Bose QuietComfort Earbuds II,1221,2022-11-06,In-store,14:10:57
+1222,Apple 2023 Mac Mini M2 Chip,1222,2022-09-02,In-store,13:38:32
+1223,JBL Charge 4 Speakers,1223,2022-07-24,In-store,09:12:15
+1224,Apple 2023 Mac Mini M2 Chip,1224,2022-10-09,In-store,15:46:34
+1225,Galaxy Tablet,1225,2022-12-15,Online,00:11:15
+1226,Apple 2023 Mac Mini M2 Chip,1226,2022-05-26,In-store,01:45:53
+1227,Apple 2023 Mac Mini M2 Chip,1227,2022-04-11,In-store,08:04:13
+1228,Harmony Microphone,1228,2022-12-20,In-store,13:17:25
+1229,JBL Charge 4 Speakers,1229,2022-01-30,In-store,20:47:33
+1230,JBL Charge 4 Speakers,1230,2022-04-09,Online,23:15:14
+1231,Bose QuietComfort Earbuds II,1231,2022-03-08,In-store,12:10:34
+1232,AirPods,1232,2022-10-20,Online,10:58:12
+1233,Apple Smartwatch,1233,2022-06-11,In-store,14:25:18
+1234,2022 Macbook Pro,1234,2022-10-02,Online,12:04:30
+1235,JBL Charge 4 Speakers,1235,2022-05-02,In-store,19:16:53
+1236,AirPods,1236,2022-01-06,Online,01:05:53
+1237,Harmony Microphone,1237,2022-07-27,Online,21:41:55
+1238,Bose QuietComfort Earbuds II,1238,2022-01-29,Online,16:22:28
+1239,2022 Macbook Pro,1239,2022-05-19,Online,09:46:15
+1240,Galaxy Tablet,1240,2022-11-29,Online,19:17:18
+1241,JBL Charge 4 Speakers,1241,2022-09-13,Online,18:04:42
+1242,Bose Headphones,1242,2022-11-09,In-store,06:18:29
+1243,JBL Charge 4 Speakers,1243,2022-02-17,In-store,16:08:06
+1244,Raspberry Pi,1244,2022-10-05,In-store,14:43:17
+1245,Arduino,1245,2022-07-10,In-store,12:14:16
+1246,Apple 2023 Mac Mini M2 Chip,1246,2022-12-25,In-store,03:05:18
+1247,Raspberry Pi,1247,2022-01-24,In-store,16:56:38
+1248,ASUS Zenbook S 13,1248,2022-03-21,In-store,19:03:06
+1249,Bose QuietComfort Earbuds II,1249,2022-01-01,In-store,19:35:21
+1250,Galaxy Tablet,1250,2022-11-13,In-store,10:34:02
+1251,Raspberry Pi,1251,2022-01-09,Online,03:51:48
+1252,Bose Headphones,1252,2022-11-13,Online,21:53:46
+1253,Apple Smartwatch,1253,2022-08-02,In-store,19:16:16
+1254,2022 Macbook Pro,1254,2022-01-13,Online,09:08:46
+1255,AIMES Mens Watches,1255,2022-07-27,Online,03:01:33
+1256,Apple 2023 Mac Mini M2 Chip,1256,2022-05-03,In-store,17:29:30
+1257,Bose Headphones,1257,2022-03-09,In-store,15:04:03
+1258,Bose Headphones,1258,2022-07-27,In-store,23:06:51
+1259,ASUS Zenbook S 13,1259,2022-02-03,Online,11:46:12
+1260,AIMES Mens Watches,1260,2022-04-22,In-store,23:30:40
+1261,Raspberry Pi,1261,2022-01-03,In-store,18:45:37
+1262,AirPods,1262,2022-12-14,In-store,13:08:00
+1263,JBL Charge 4 Speakers,1263,2022-07-20,In-store,03:54:18
+1264,Arduino,1264,2022-09-07,In-store,01:27:38
+1265,Apple Smartwatch,1265,2022-05-02,In-store,11:25:00
+1266,Oculus VR,1266,2022-02-13,In-store,13:28:22
+1267,Bose QuietComfort Earbuds II,1267,2022-10-12,Online,08:51:38
+1268,Arduino,1268,2022-03-11,In-store,18:27:49
+1269,Harmony Microphone,1269,2022-01-02,In-store,18:45:38
+1270,Arduino,1270,2022-12-22,In-store,09:38:14
+1271,Bose Headphones,1271,2022-04-24,In-store,15:12:38
+1272,JBL Charge 4 Speakers,1272,2022-09-10,In-store,07:01:03
+1273,2022 Macbook Pro,1273,2022-02-17,In-store,12:05:41
+1274,Apple 2023 Mac Mini M2 Chip,1274,2022-06-14,Online,20:14:08
+1275,Raspberry Pi,1275,2022-04-30,Online,02:38:56
+1276,AIMES Mens Watches,1276,2022-06-06,In-store,03:30:35
+1277,Apple 2023 Mac Mini M2 Chip,1277,2022-07-12,In-store,20:59:55
+1278,Galaxy Tablet,1278,2022-03-26,In-store,10:32:40
+1279,Bose QuietComfort Earbuds II,1279,2022-12-25,Online,15:17:10
+1280,Apple Smartwatch,1280,2022-05-11,Online,15:47:55
+1281,Galaxy Tablet,1281,2022-07-01,In-store,04:10:26
+1282,Bose Headphones,1282,2022-04-04,Online,12:07:25
+1283,JBL Charge 4 Speakers,1283,2022-03-08,Online,02:58:33
+1284,2022 Macbook Pro,1284,2022-09-09,In-store,23:33:22
+1285,Apple Smartwatch,1285,2022-07-01,Online,14:55:36
+1286,Raspberry Pi,1286,2022-08-14,In-store,11:34:54
+1287,AIMES Mens Watches,1287,2022-12-21,Online,19:47:18
+1288,Raspberry Pi,1288,2022-07-25,Online,19:35:11
+1289,AirPods,1289,2022-06-18,In-store,20:25:59
+1290,JBL Charge 4 Speakers,1290,2022-09-02,Online,13:53:44
+1291,Arduino,1291,2022-06-29,Online,05:33:06
+1292,Arduino,1292,2022-07-26,In-store,15:15:05
+1293,JBL Charge 4 Speakers,1293,2022-01-04,In-store,12:16:19
+1294,Apple Ipad,1294,2022-05-02,Online,11:27:12
+1295,AirPods,1295,2022-12-02,In-store,01:52:18
+1296,2022 Macbook Pro,1296,2022-04-26,In-store,07:34:17
+1297,Apple Ipad,1297,2022-05-27,Online,05:36:48
+1298,Bose QuietComfort Earbuds II,1298,2022-08-22,Online,04:16:17
+1299,Apple Ipad,1299,2022-04-01,In-store,05:41:19
+1300,ASUS Zenbook S 13,1300,2022-11-20,Online,12:15:05
+1301,Apple Smartwatch,1301,2022-04-07,In-store,06:01:30
+1302,Oculus VR,1302,2022-01-28,In-store,07:42:43
+1303,Bose Headphones,1303,2022-08-14,Online,06:57:38
+1304,Raspberry Pi,1304,2022-11-09,Online,22:11:13
+1305,Apple Ipad,1305,2022-11-19,Online,17:42:43
+1306,Apple Smartwatch,1306,2022-01-29,In-store,11:14:13
+1307,ASUS Zenbook S 13,1307,2022-02-15,Online,17:29:24
+1308,Apple 2023 Mac Mini M2 Chip,1308,2022-05-20,Online,01:22:09
+1309,Oculus VR,1309,2022-03-22,In-store,16:01:49
+1310,JBL Charge 4 Speakers,1310,2022-03-13,In-store,01:08:56
+1311,JBL Charge 4 Speakers,1311,2022-03-05,In-store,14:26:43
+1312,Galaxy Tablet,1312,2022-04-07,Online,21:23:12
+1313,ASUS Zenbook S 13,1313,2022-01-11,In-store,08:01:03
+1314,Apple 2023 Mac Mini M2 Chip,1314,2022-11-21,In-store,22:46:58
+1315,Arduino,1315,2022-05-25,Online,06:07:16
+1316,AirPods,1316,2022-10-19,In-store,02:13:54
+1317,Bose QuietComfort Earbuds II,1317,2022-09-27,Online,10:43:16
+1318,Harmony Microphone,1318,2022-10-26,Online,21:55:41
+1319,Apple 2023 Mac Mini M2 Chip,1319,2022-10-17,In-store,10:50:34
+1320,Bose Headphones,1320,2022-07-06,Online,04:04:30
+1321,Harmony Microphone,1321,2022-07-30,In-store,03:20:23
+1322,Raspberry Pi,1322,2022-06-22,Online,14:10:07
+1323,Raspberry Pi,1323,2022-07-14,In-store,14:29:40
+1324,AIMES Mens Watches,1324,2022-09-30,Online,10:41:21
+1325,2022 Macbook Pro,1325,2022-09-13,In-store,16:06:28
+1326,Bose Headphones,1326,2022-02-02,In-store,05:33:08
+1327,JBL Charge 4 Speakers,1327,2022-09-05,Online,00:48:31
+1328,ASUS Zenbook S 13,1328,2022-06-19,Online,21:54:51
+1329,Apple Smartwatch,1329,2022-05-28,In-store,04:25:45
+1330,AIMES Mens Watches,1330,2022-09-01,Online,19:06:04
+1331,Oculus VR,1331,2022-01-08,In-store,07:41:37
+1332,Harmony Microphone,1332,2022-07-12,Online,07:25:11
+1333,Oculus VR,1333,2022-08-18,In-store,11:01:45
+1334,Harmony Microphone,1334,2022-02-06,In-store,02:17:16
+1335,AIMES Mens Watches,1335,2022-06-15,Online,22:42:28
+1336,Arduino,1336,2022-06-25,Online,17:31:49
+1337,Apple Ipad,1337,2022-12-16,Online,13:59:25
+1338,JBL Charge 4 Speakers,1338,2022-01-02,Online,15:22:48
+1339,Apple Ipad,1339,2022-10-18,In-store,15:32:52
+1340,Galaxy Tablet,1340,2022-12-29,In-store,10:41:57
+1341,Galaxy Tablet,1341,2022-01-19,Online,03:09:16
+1342,Raspberry Pi,1342,2022-05-18,Online,11:17:55
+1343,Bose Headphones,1343,2022-06-24,In-store,11:02:42
+1344,AIMES Mens Watches,1344,2022-03-06,In-store,03:44:58
+1345,Bose Headphones,1345,2022-04-07,Online,13:46:50
+1346,2022 Macbook Pro,1346,2022-08-27,In-store,16:25:11
+1347,Oculus VR,1347,2022-01-11,Online,18:24:32
+1348,Arduino,1348,2022-01-31,In-store,23:03:28
+1349,Galaxy Tablet,1349,2022-08-01,Online,02:12:41
+1350,Bose Headphones,1350,2022-01-31,In-store,22:17:53
+1351,Arduino,1351,2022-03-11,Online,14:35:14
+1352,Oculus VR,1352,2022-07-17,Online,07:05:37
+1353,Apple 2023 Mac Mini M2 Chip,1353,2022-07-06,Online,06:04:39
+1354,Bose QuietComfort Earbuds II,1354,2022-08-15,Online,04:04:07
+1355,Harmony Microphone,1355,2022-03-29,In-store,09:35:34
+1356,Bose QuietComfort Earbuds II,1356,2022-04-28,In-store,03:03:17
+1357,AirPods,1357,2022-02-03,In-store,20:32:48
+1358,Apple 2023 Mac Mini M2 Chip,1358,2022-10-01,In-store,15:28:49
+1359,JBL Charge 4 Speakers,1359,2022-08-30,In-store,21:53:10
+1360,Bose QuietComfort Earbuds II,1360,2022-11-27,Online,17:01:07
+1361,Apple Ipad,1361,2022-01-13,In-store,23:16:31
+1362,Arduino,1362,2022-10-12,In-store,21:08:01
+1363,Raspberry Pi,1363,2022-07-25,In-store,02:48:03
+1364,Galaxy Tablet,1364,2022-04-21,In-store,09:52:36
+1365,JBL Charge 4 Speakers,1365,2022-07-23,In-store,15:03:21
+1366,Galaxy Tablet,1366,2022-04-30,Online,09:13:21
+1367,Bose QuietComfort Earbuds II,1367,2022-05-03,Online,18:02:15
+1368,Apple Smartwatch,1368,2022-04-07,Online,23:08:59
+1369,Galaxy Tablet,1369,2022-06-13,Online,18:08:35
+1370,Harmony Microphone,1370,2022-01-17,In-store,18:15:30
+1371,ASUS Zenbook S 13,1371,2022-08-22,In-store,11:12:07
+1372,Bose Headphones,1372,2022-01-14,In-store,07:40:27
+1373,Harmony Microphone,1373,2022-05-13,Online,00:58:59
+1374,Galaxy Tablet,1374,2022-12-18,Online,10:08:48
+1375,Apple 2023 Mac Mini M2 Chip,1375,2022-01-01,Online,22:49:41
+1376,Oculus VR,1376,2022-05-20,Online,22:32:14
+1377,AirPods,1377,2022-05-27,Online,04:49:19
+1378,Arduino,1378,2022-08-25,In-store,05:44:46
+1379,AirPods,1379,2022-11-04,Online,04:00:46
+1380,Oculus VR,1380,2022-04-08,Online,12:45:36
+1381,Apple Ipad,1381,2022-05-05,In-store,11:07:11
+1382,AirPods,1382,2022-08-05,Online,05:09:49
+1383,Apple 2023 Mac Mini M2 Chip,1383,2022-11-08,In-store,14:13:40
+1384,Bose QuietComfort Earbuds II,1384,2022-07-07,In-store,12:20:25
+1385,Harmony Microphone,1385,2022-09-29,Online,02:26:11
+1386,Apple 2023 Mac Mini M2 Chip,1386,2022-11-29,In-store,05:23:52
+1387,AIMES Mens Watches,1387,2022-11-23,In-store,09:43:18
+1388,Arduino,1388,2022-02-07,In-store,11:04:39
+1389,Arduino,1389,2022-07-17,Online,12:41:54
+1390,Bose Headphones,1390,2022-02-12,Online,04:40:49
+1391,AIMES Mens Watches,1391,2022-06-04,In-store,19:36:04
+1392,ASUS Zenbook S 13,1392,2022-06-23,In-store,10:39:06
+1393,Galaxy Tablet,1393,2022-11-11,Online,07:07:35
+1394,Bose Headphones,1394,2022-01-06,In-store,14:50:21
+1395,AIMES Mens Watches,1395,2022-12-06,In-store,04:37:38
+1396,Raspberry Pi,1396,2022-12-13,Online,15:49:57
+1397,Arduino,1397,2022-09-18,Online,22:42:51
+1398,Arduino,1398,2022-11-04,Online,13:24:59
+1399,Raspberry Pi,1399,2022-07-20,In-store,20:01:27
+1400,Galaxy Tablet,1400,2022-10-31,In-store,00:31:09
+1401,Bose Headphones,1401,2022-01-29,Online,06:25:15
+1402,ASUS Zenbook S 13,1402,2022-10-04,In-store,17:19:58
+1403,Apple Smartwatch,1403,2022-05-14,Online,22:29:50
+1404,ASUS Zenbook S 13,1404,2022-03-10,In-store,18:08:30
+1405,Bose QuietComfort Earbuds II,1405,2022-07-29,In-store,14:28:20
+1406,JBL Charge 4 Speakers,1406,2022-04-23,Online,07:10:21
+1407,Bose QuietComfort Earbuds II,1407,2022-08-02,In-store,18:17:20
+1408,Apple 2023 Mac Mini M2 Chip,1408,2022-10-31,In-store,01:27:29
+1409,Apple 2023 Mac Mini M2 Chip,1409,2022-08-01,In-store,05:50:48
+1410,AirPods,1410,2022-05-25,Online,13:05:42
+1411,Apple Smartwatch,1411,2022-02-16,In-store,12:12:37
+1412,ASUS Zenbook S 13,1412,2022-10-30,In-store,14:25:01
+1413,Harmony Microphone,1413,2022-11-11,In-store,18:52:05
+1414,2022 Macbook Pro,1414,2022-11-07,In-store,15:00:24
+1415,Arduino,1415,2022-04-05,In-store,09:47:49
+1416,Raspberry Pi,1416,2022-06-26,Online,12:21:11
+1417,Bose Headphones,1417,2022-05-02,Online,09:36:22
+1418,JBL Charge 4 Speakers,1418,2022-10-18,Online,19:07:03
+1419,AIMES Mens Watches,1419,2022-05-17,In-store,17:43:16
+1420,ASUS Zenbook S 13,1420,2022-10-14,Online,17:10:16
+1421,2022 Macbook Pro,1421,2022-04-05,In-store,07:42:53
+1422,Bose Headphones,1422,2022-03-17,Online,10:51:26
+1423,Arduino,1423,2022-01-08,In-store,00:12:16
+1424,Bose Headphones,1424,2022-06-06,Online,05:49:40
+1425,AIMES Mens Watches,1425,2022-04-05,In-store,05:32:45
+1426,Apple 2023 Mac Mini M2 Chip,1426,2022-09-19,In-store,01:42:41
+1427,Apple Smartwatch,1427,2022-04-08,Online,03:45:58
+1428,Apple Smartwatch,1428,2022-12-08,In-store,03:57:55
+1429,ASUS Zenbook S 13,1429,2022-01-29,Online,14:23:13
+1430,Raspberry Pi,1430,2022-05-26,In-store,13:08:17
+1431,AirPods,1431,2022-03-06,Online,02:14:54
+1432,AirPods,1432,2022-07-08,In-store,12:11:40
+1433,Apple 2023 Mac Mini M2 Chip,1433,2022-08-06,Online,22:04:49
+1434,Bose Headphones,1434,2022-08-12,In-store,01:45:21
+1435,Apple Smartwatch,1435,2022-03-05,Online,15:32:33
+1436,AirPods,1436,2022-10-18,In-store,02:36:13
+1437,Harmony Microphone,1437,2022-01-10,In-store,19:56:15
+1438,AIMES Mens Watches,1438,2022-01-04,Online,15:54:34
+1439,Bose QuietComfort Earbuds II,1439,2022-12-13,Online,09:26:48
+1440,Apple Smartwatch,1440,2022-09-26,Online,04:15:20
+1441,Bose QuietComfort Earbuds II,1441,2022-06-07,In-store,07:56:06
+1442,Oculus VR,1442,2022-04-24,Online,11:01:18
+1443,Apple 2023 Mac Mini M2 Chip,1443,2022-11-25,Online,19:42:33
+1444,Apple Ipad,1444,2022-07-13,In-store,15:12:01
+1445,JBL Charge 4 Speakers,1445,2022-06-28,In-store,06:54:30
+1446,Arduino,1446,2022-10-21,Online,05:05:30
+1447,JBL Charge 4 Speakers,1447,2022-11-25,Online,17:18:30
+1448,Bose QuietComfort Earbuds II,1448,2022-08-30,Online,18:06:33
+1449,ASUS Zenbook S 13,1449,2022-10-22,In-store,07:30:50
+1450,AIMES Mens Watches,1450,2022-02-07,Online,07:44:21
+1451,Galaxy Tablet,1451,2022-08-15,In-store,13:35:36
+1452,AirPods,1452,2022-09-28,Online,02:19:38
+1453,Bose QuietComfort Earbuds II,1453,2022-02-12,In-store,03:42:46
+1454,JBL Charge 4 Speakers,1454,2022-07-22,In-store,14:54:12
+1455,Apple Smartwatch,1455,2022-12-20,In-store,16:58:38
+1456,Apple 2023 Mac Mini M2 Chip,1456,2022-03-23,Online,22:06:36
+1457,Bose QuietComfort Earbuds II,1457,2022-11-23,Online,06:56:07
+1458,2022 Macbook Pro,1458,2022-06-23,In-store,23:24:09
+1459,2022 Macbook Pro,1459,2022-11-19,Online,14:01:01
+1460,JBL Charge 4 Speakers,1460,2022-08-05,Online,02:06:51
+1461,AirPods,1461,2022-10-25,Online,20:23:09
+1462,Apple Smartwatch,1462,2022-02-13,In-store,04:19:31
+1463,Oculus VR,1463,2022-01-04,Online,13:04:02
+1464,Bose QuietComfort Earbuds II,1464,2022-05-06,Online,01:07:11
+1465,Bose QuietComfort Earbuds II,1465,2022-05-06,In-store,05:46:51
+1466,Bose QuietComfort Earbuds II,1466,2022-04-05,In-store,13:13:23
+1467,Apple 2023 Mac Mini M2 Chip,1467,2022-01-27,In-store,03:31:54
+1468,Oculus VR,1468,2022-04-17,In-store,01:06:32
+1469,Apple Smartwatch,1469,2022-02-11,Online,01:31:05
+1470,2022 Macbook Pro,1470,2022-12-12,In-store,02:26:26
+1471,2022 Macbook Pro,1471,2022-06-30,In-store,12:09:00
+1472,Apple Ipad,1472,2022-07-23,Online,22:16:23
+1473,ASUS Zenbook S 13,1473,2022-10-11,In-store,09:31:22
+1474,2022 Macbook Pro,1474,2022-04-08,In-store,05:59:30
+1475,ASUS Zenbook S 13,1475,2022-08-06,Online,23:51:02
+1476,Galaxy Tablet,1476,2022-01-15,In-store,19:30:05
+1477,AIMES Mens Watches,1477,2022-08-14,Online,07:57:09
+1478,JBL Charge 4 Speakers,1478,2022-02-24,Online,00:30:43
+1479,Arduino,1479,2022-07-08,Online,01:29:22
+1480,Arduino,1480,2022-06-01,Online,19:51:00
+1481,2022 Macbook Pro,1481,2022-10-06,Online,13:49:28
+1482,AirPods,1482,2022-11-12,In-store,05:31:27
+1483,Harmony Microphone,1483,2022-04-29,Online,02:13:02
+1484,Bose QuietComfort Earbuds II,1484,2022-01-24,Online,05:09:53
+1485,Bose QuietComfort Earbuds II,1485,2022-02-28,Online,15:00:00
+1486,AirPods,1486,2022-07-04,In-store,02:07:03
+1487,Galaxy Tablet,1487,2022-06-05,In-store,16:10:10
+1488,Arduino,1488,2022-10-20,Online,06:50:22
+1489,2022 Macbook Pro,1489,2022-06-09,Online,07:26:00
+1490,AIMES Mens Watches,1490,2022-04-10,In-store,02:47:17
+1491,2022 Macbook Pro,1491,2022-08-06,Online,00:54:29
+1492,Bose QuietComfort Earbuds II,1492,2022-01-05,In-store,18:34:25
+1493,Arduino,1493,2022-07-18,In-store,13:49:23
+1494,Apple Smartwatch,1494,2022-04-20,In-store,01:32:00
+1495,AIMES Mens Watches,1495,2022-01-15,Online,21:59:54
+1496,Galaxy Tablet,1496,2022-07-16,Online,01:37:56
+1497,2022 Macbook Pro,1497,2022-04-15,In-store,20:44:01
+1498,AirPods,1498,2022-06-29,In-store,23:08:16
+1499,Bose Headphones,1499,2022-04-08,Online,02:09:45
+1500,Apple 2023 Mac Mini M2 Chip,1500,2022-03-05,In-store,19:23:49
+1501,Apple 2023 Mac Mini M2 Chip,1501,2022-07-05,In-store,04:44:28
+1502,Arduino,1502,2022-12-27,Online,00:10:18
+1503,Apple Smartwatch,1503,2022-08-24,Online,08:07:48
+1504,Arduino,1504,2022-05-14,In-store,08:29:02
+1505,Arduino,1505,2022-01-11,Online,11:55:56
+1506,Apple Ipad,1506,2022-04-23,Online,08:35:20
+1507,Apple Ipad,1507,2022-06-06,In-store,06:35:27
+1508,Bose QuietComfort Earbuds II,1508,2022-07-29,Online,00:10:53
+1509,ASUS Zenbook S 13,1509,2022-08-24,Online,08:23:22
+1510,Harmony Microphone,1510,2022-09-14,In-store,04:02:14
+1511,JBL Charge 4 Speakers,1511,2022-04-01,Online,08:26:47
+1512,AirPods,1512,2022-02-24,Online,00:18:17
+1513,Harmony Microphone,1513,2022-02-22,Online,19:05:01
+1514,Bose Headphones,1514,2022-10-20,Online,05:34:25
+1515,2022 Macbook Pro,1515,2022-01-26,In-store,17:53:22
+1516,Bose QuietComfort Earbuds II,1516,2022-08-01,In-store,09:59:36
+1517,Harmony Microphone,1517,2022-11-30,Online,07:22:08
+1518,Apple 2023 Mac Mini M2 Chip,1518,2022-02-24,Online,21:32:55
+1519,Apple Ipad,1519,2022-01-19,In-store,13:30:36
+1520,AirPods,1520,2022-03-20,In-store,12:27:18
+1521,Apple Smartwatch,1521,2022-09-01,In-store,06:33:06
+1522,Bose QuietComfort Earbuds II,1522,2022-07-03,Online,13:16:04
+1523,Harmony Microphone,1523,2022-06-04,Online,03:26:20
+1524,Apple Ipad,1524,2022-10-30,In-store,07:09:38
+1525,Galaxy Tablet,1525,2022-07-24,Online,14:37:55
+1526,Harmony Microphone,1526,2022-04-21,In-store,11:31:14
+1527,Apple Smartwatch,1527,2022-04-10,Online,22:00:31
+1528,2022 Macbook Pro,1528,2022-04-22,In-store,14:16:54
+1529,Harmony Microphone,1529,2022-07-16,In-store,08:08:26
+1530,2022 Macbook Pro,1530,2022-01-01,In-store,16:18:39
+1531,Arduino,1531,2022-03-02,Online,02:32:57
+1532,Bose QuietComfort Earbuds II,1532,2022-08-17,In-store,01:27:57
+1533,AIMES Mens Watches,1533,2022-05-14,In-store,20:31:22
+1534,Oculus VR,1534,2022-03-03,In-store,17:30:28
+1535,Galaxy Tablet,1535,2022-10-17,In-store,00:10:56
+1536,2022 Macbook Pro,1536,2022-08-01,In-store,01:02:33
+1537,Apple 2023 Mac Mini M2 Chip,1537,2022-09-21,Online,12:40:03
+1538,Apple Smartwatch,1538,2022-10-08,In-store,15:48:09
+1539,JBL Charge 4 Speakers,1539,2022-02-02,Online,06:25:00
+1540,AirPods,1540,2022-01-21,In-store,04:28:45
+1541,Bose QuietComfort Earbuds II,1541,2022-11-07,In-store,22:51:47
+1542,Apple Ipad,1542,2022-06-01,Online,17:50:17
+1543,Arduino,1543,2022-08-23,In-store,20:39:19
+1544,JBL Charge 4 Speakers,1544,2022-11-10,Online,19:13:26
+1545,Bose Headphones,1545,2022-07-03,In-store,02:28:40
+1546,Bose Headphones,1546,2022-08-09,Online,09:45:10
+1547,Oculus VR,1547,2022-01-14,In-store,22:35:31
+1548,AirPods,1548,2022-04-06,In-store,01:57:41
+1549,Harmony Microphone,1549,2022-10-28,Online,08:25:01
+1550,Apple Smartwatch,1550,2022-12-06,Online,01:30:20
+1551,Raspberry Pi,1551,2022-03-28,Online,21:46:07
+1552,ASUS Zenbook S 13,1552,2022-03-12,In-store,05:50:49
+1553,Bose QuietComfort Earbuds II,1553,2022-12-11,Online,02:23:17
+1554,Apple Ipad,1554,2022-07-23,In-store,06:15:19
+1555,Apple Smartwatch,1555,2022-06-02,Online,01:25:54
+1556,Harmony Microphone,1556,2022-03-29,In-store,04:02:32
+1557,Apple Smartwatch,1557,2022-02-24,Online,14:22:12
+1558,Bose Headphones,1558,2022-10-29,In-store,23:44:57
+1559,Oculus VR,1559,2022-02-23,Online,08:04:30
+1560,AIMES Mens Watches,1560,2022-05-04,Online,16:26:57
+1561,Apple Ipad,1561,2022-04-08,Online,18:51:56
+1562,2022 Macbook Pro,1562,2022-01-22,Online,15:05:16
+1563,AirPods,1563,2022-04-01,Online,13:34:22
+1564,Arduino,1564,2022-07-27,Online,14:45:29
+1565,Harmony Microphone,1565,2022-10-23,Online,02:40:56
+1566,Bose QuietComfort Earbuds II,1566,2022-08-25,Online,22:50:33
+1567,Raspberry Pi,1567,2022-07-19,In-store,13:21:35
+1568,JBL Charge 4 Speakers,1568,2022-11-07,Online,07:09:06
+1569,Raspberry Pi,1569,2022-10-24,Online,09:39:10
+1570,ASUS Zenbook S 13,1570,2022-06-02,In-store,10:07:36
+1571,Raspberry Pi,1571,2022-05-20,In-store,10:33:27
+1572,Bose Headphones,1572,2022-01-24,In-store,17:18:04
+1573,2022 Macbook Pro,1573,2022-02-11,Online,02:01:02
+1574,Bose QuietComfort Earbuds II,1574,2022-06-19,In-store,13:45:51
+1575,Harmony Microphone,1575,2022-12-10,Online,02:58:39
+1576,AIMES Mens Watches,1576,2022-10-14,Online,23:32:47
+1577,JBL Charge 4 Speakers,1577,2022-01-12,In-store,15:57:30
+1578,2022 Macbook Pro,1578,2022-07-20,In-store,18:05:00
+1579,Galaxy Tablet,1579,2022-12-23,Online,02:40:37
+1580,Galaxy Tablet,1580,2022-06-29,In-store,00:14:18
+1581,Raspberry Pi,1581,2022-01-08,Online,21:34:47
+1582,Harmony Microphone,1582,2022-06-05,In-store,13:02:41
+1583,JBL Charge 4 Speakers,1583,2022-02-10,In-store,00:55:15
+1584,Arduino,1584,2022-02-21,In-store,00:29:59
+1585,Raspberry Pi,1585,2022-03-06,In-store,20:12:55
+1586,Galaxy Tablet,1586,2022-08-01,In-store,13:27:34
+1587,Harmony Microphone,1587,2022-02-25,In-store,17:30:19
+1588,Bose QuietComfort Earbuds II,1588,2022-11-15,Online,17:59:22
+1589,Apple 2023 Mac Mini M2 Chip,1589,2022-04-20,Online,02:35:27
+1590,Bose Headphones,1590,2022-07-16,In-store,16:30:38
+1591,JBL Charge 4 Speakers,1591,2022-04-02,In-store,01:44:01
+1592,2022 Macbook Pro,1592,2022-04-21,Online,08:24:28
+1593,Oculus VR,1593,2022-10-10,In-store,18:14:53
+1594,ASUS Zenbook S 13,1594,2022-05-07,In-store,20:06:43
+1595,Apple Ipad,1595,2022-04-10,In-store,23:03:05
+1596,Arduino,1596,2022-02-01,In-store,15:19:53
+1597,2022 Macbook Pro,1597,2022-05-21,In-store,08:04:15
+1598,2022 Macbook Pro,1598,2022-07-01,In-store,03:02:38
+1599,Apple 2023 Mac Mini M2 Chip,1599,2022-08-04,Online,03:48:46
+1600,Oculus VR,1600,2022-10-11,Online,03:35:47
+1601,Oculus VR,1601,2022-12-08,In-store,19:51:38
+1602,Galaxy Tablet,1602,2022-04-24,Online,17:08:39
+1603,Harmony Microphone,1603,2022-06-30,Online,12:06:02
+1604,Apple Smartwatch,1604,2022-10-02,In-store,01:47:24
+1605,JBL Charge 4 Speakers,1605,2022-08-21,Online,08:54:50
+1606,Arduino,1606,2022-08-11,Online,18:44:34
+1607,2022 Macbook Pro,1607,2022-10-22,Online,09:35:29
+1608,Raspberry Pi,1608,2022-02-11,In-store,02:50:12
+1609,Arduino,1609,2022-10-12,In-store,22:58:04
+1610,Galaxy Tablet,1610,2022-01-26,Online,11:33:06
+1611,Apple Smartwatch,1611,2022-11-05,Online,04:55:08
+1612,Oculus VR,1612,2022-12-24,In-store,12:56:54
+1613,Raspberry Pi,1613,2022-12-29,In-store,07:15:51
+1614,AirPods,1614,2022-07-18,Online,03:54:20
+1615,2022 Macbook Pro,1615,2022-05-14,In-store,08:53:24
+1616,Bose QuietComfort Earbuds II,1616,2022-05-30,Online,09:40:48
+1617,ASUS Zenbook S 13,1617,2022-05-01,In-store,00:00:23
+1618,Arduino,1618,2022-02-13,In-store,07:35:17
+1619,AirPods,1619,2022-11-22,Online,20:49:20
+1620,JBL Charge 4 Speakers,1620,2022-11-27,In-store,06:24:38
+1621,AIMES Mens Watches,1621,2022-08-19,In-store,08:13:58
+1622,Oculus VR,1622,2022-03-01,Online,14:08:03
+1623,Apple 2023 Mac Mini M2 Chip,1623,2022-11-28,Online,01:51:58
+1624,Arduino,1624,2022-11-08,Online,11:09:30
+1625,Arduino,1625,2022-04-23,Online,21:10:42
+1626,AIMES Mens Watches,1626,2022-06-13,Online,07:54:24
+1627,Bose QuietComfort Earbuds II,1627,2022-06-02,Online,16:48:56
+1628,ASUS Zenbook S 13,1628,2022-01-22,In-store,11:51:12
+1629,Galaxy Tablet,1629,2022-05-26,Online,21:44:55
+1630,Oculus VR,1630,2022-02-15,Online,10:49:21
+1631,Arduino,1631,2022-08-05,Online,16:49:18
+1632,Raspberry Pi,1632,2022-12-03,Online,21:42:39
+1633,ASUS Zenbook S 13,1633,2022-07-10,In-store,11:23:54
+1634,AIMES Mens Watches,1634,2022-01-15,In-store,09:25:45
+1635,AIMES Mens Watches,1635,2022-04-25,In-store,13:41:12
+1636,Bose Headphones,1636,2022-07-01,In-store,04:50:13
+1637,Arduino,1637,2022-09-03,In-store,22:29:35
+1638,2022 Macbook Pro,1638,2022-04-04,Online,04:44:00
+1639,AirPods,1639,2022-04-16,In-store,21:49:29
+1640,AIMES Mens Watches,1640,2022-08-22,In-store,23:39:50
+1641,Galaxy Tablet,1641,2022-08-30,In-store,17:35:14
+1642,AIMES Mens Watches,1642,2022-03-19,In-store,11:00:49
+1643,Apple 2023 Mac Mini M2 Chip,1643,2022-07-31,In-store,21:43:12
+1644,Apple Smartwatch,1644,2022-05-31,Online,05:26:14
+1645,Apple Ipad,1645,2022-08-27,Online,11:21:53
+1646,2022 Macbook Pro,1646,2022-09-26,In-store,07:08:38
+1647,Harmony Microphone,1647,2022-04-19,In-store,18:01:05
+1648,Oculus VR,1648,2022-11-22,In-store,13:33:31
+1649,Harmony Microphone,1649,2022-11-14,In-store,11:39:12
+1650,Apple 2023 Mac Mini M2 Chip,1650,2022-04-29,Online,08:43:39
+1651,Bose Headphones,1651,2022-01-26,Online,08:29:44
+1652,Apple Ipad,1652,2022-11-06,Online,15:37:33
+1653,Apple Ipad,1653,2022-08-30,In-store,23:31:35
+1654,Apple 2023 Mac Mini M2 Chip,1654,2022-11-15,Online,04:46:22
+1655,Bose QuietComfort Earbuds II,1655,2022-12-18,In-store,22:48:14
+1656,Apple Ipad,1656,2022-08-18,In-store,12:25:56
+1657,2022 Macbook Pro,1657,2022-06-09,Online,20:44:51
+1658,AirPods,1658,2022-02-24,In-store,17:03:31
+1659,2022 Macbook Pro,1659,2022-03-23,In-store,03:35:30
+1660,Arduino,1660,2022-10-27,In-store,05:18:17
+1661,Oculus VR,1661,2022-02-22,In-store,15:15:56
+1662,Oculus VR,1662,2022-07-12,In-store,08:56:15
+1663,Harmony Microphone,1663,2022-09-24,Online,04:29:46
+1664,Apple Smartwatch,1664,2022-02-11,In-store,08:27:37
+1665,Bose QuietComfort Earbuds II,1665,2022-11-30,In-store,04:18:07
+1666,Oculus VR,1666,2022-11-05,In-store,10:26:21
+1667,Oculus VR,1667,2022-03-12,In-store,22:00:05
+1668,Raspberry Pi,1668,2022-09-05,Online,05:48:24
+1669,JBL Charge 4 Speakers,1669,2022-09-02,In-store,17:03:54
+1670,AirPods,1670,2022-02-13,Online,19:49:19
+1671,Apple Smartwatch,1671,2022-01-24,Online,05:54:57
+1672,Bose QuietComfort Earbuds II,1672,2022-03-15,Online,00:14:34
+1673,Galaxy Tablet,1673,2022-11-18,In-store,22:42:44
+1674,Raspberry Pi,1674,2022-08-29,In-store,23:41:25
+1675,Galaxy Tablet,1675,2022-12-02,In-store,10:23:41
+1676,2022 Macbook Pro,1676,2022-07-23,In-store,18:16:15
+1677,Apple Ipad,1677,2022-03-25,Online,19:12:22
+1678,Apple 2023 Mac Mini M2 Chip,1678,2022-06-13,Online,05:21:55
+1679,Oculus VR,1679,2022-07-03,Online,00:11:19
+1680,Oculus VR,1680,2022-10-25,In-store,23:50:22
+1681,Raspberry Pi,1681,2022-06-08,In-store,23:03:23
+1682,ASUS Zenbook S 13,1682,2022-11-29,In-store,02:24:56
+1683,ASUS Zenbook S 13,1683,2022-01-29,Online,20:14:23
+1684,AirPods,1684,2022-01-24,In-store,15:53:07
+1685,Apple 2023 Mac Mini M2 Chip,1685,2022-10-29,Online,12:57:28
+1686,2022 Macbook Pro,1686,2022-09-08,Online,23:29:05
+1687,Bose QuietComfort Earbuds II,1687,2022-04-26,In-store,18:41:34
+1688,AIMES Mens Watches,1688,2022-05-25,In-store,17:58:35
+1689,ASUS Zenbook S 13,1689,2022-06-18,In-store,05:53:13
+1690,JBL Charge 4 Speakers,1690,2022-03-27,Online,02:21:49
+1691,Harmony Microphone,1691,2022-05-29,Online,19:28:38
+1692,AIMES Mens Watches,1692,2022-04-25,Online,16:26:27
+1693,AIMES Mens Watches,1693,2022-10-30,Online,21:50:19
+1694,Arduino,1694,2022-10-26,In-store,00:45:33
+1695,AIMES Mens Watches,1695,2022-03-19,In-store,23:37:44
+1696,AIMES Mens Watches,1696,2022-07-28,In-store,21:31:27
+1697,Harmony Microphone,1697,2022-12-27,In-store,00:34:36
+1698,Bose Headphones,1698,2022-09-10,Online,17:48:13
+1699,Oculus VR,1699,2022-05-15,Online,20:52:33
+1700,Apple Ipad,1700,2022-11-05,In-store,14:17:10
+1701,Bose Headphones,1701,2022-10-28,Online,03:52:47
+1702,Raspberry Pi,1702,2022-03-02,In-store,18:56:29
+1703,Bose QuietComfort Earbuds II,1703,2022-07-04,Online,13:38:16
+1704,Bose QuietComfort Earbuds II,1704,2022-02-09,In-store,16:47:11
+1705,Apple Ipad,1705,2022-12-09,Online,03:51:03
+1706,Harmony Microphone,1706,2022-06-30,In-store,18:49:54
+1707,Apple Ipad,1707,2022-12-02,In-store,22:47:42
+1708,Galaxy Tablet,1708,2022-05-05,In-store,18:47:06
+1709,AirPods,1709,2022-04-09,Online,13:07:49
+1710,ASUS Zenbook S 13,1710,2022-03-25,In-store,02:35:35
+1711,Oculus VR,1711,2022-11-13,In-store,14:25:34
+1712,Apple Ipad,1712,2022-05-04,Online,16:41:06
+1713,Apple Ipad,1713,2022-01-11,Online,01:44:53
+1714,AirPods,1714,2022-08-02,In-store,23:42:51
+1715,Apple Ipad,1715,2022-03-16,In-store,19:01:17
+1716,2022 Macbook Pro,1716,2022-12-26,In-store,15:52:54
+1717,Bose QuietComfort Earbuds II,1717,2022-04-24,In-store,12:29:22
+1718,Galaxy Tablet,1718,2022-04-08,Online,00:59:30
+1719,Galaxy Tablet,1719,2022-03-24,In-store,07:03:50
+1720,AirPods,1720,2022-10-01,In-store,04:40:29
+1721,Apple 2023 Mac Mini M2 Chip,1721,2022-03-31,Online,03:52:17
+1722,Bose Headphones,1722,2022-04-08,Online,04:17:49
+1723,JBL Charge 4 Speakers,1723,2022-04-04,In-store,07:06:43
+1724,JBL Charge 4 Speakers,1724,2022-10-06,Online,06:27:11
+1725,Apple 2023 Mac Mini M2 Chip,1725,2022-05-20,Online,11:34:00
+1726,Arduino,1726,2022-12-01,In-store,09:08:46
+1727,Bose Headphones,1727,2022-12-11,In-store,07:31:33
+1728,Arduino,1728,2022-05-29,In-store,23:48:13
+1729,Arduino,1729,2022-12-30,Online,06:23:42
+1730,AIMES Mens Watches,1730,2022-03-02,Online,06:23:02
+1731,AIMES Mens Watches,1731,2022-08-14,Online,17:52:11
+1732,Bose Headphones,1732,2022-11-26,In-store,08:38:09
+1733,2022 Macbook Pro,1733,2022-09-03,In-store,07:57:16
+1734,Galaxy Tablet,1734,2022-04-11,In-store,09:11:31
+1735,Galaxy Tablet,1735,2022-04-16,In-store,07:47:51
+1736,Apple Smartwatch,1736,2022-08-30,Online,19:12:23
+1737,Bose Headphones,1737,2022-01-20,In-store,16:57:05
+1738,JBL Charge 4 Speakers,1738,2022-01-31,Online,10:10:12
+1739,Bose QuietComfort Earbuds II,1739,2022-12-27,Online,06:32:08
+1740,JBL Charge 4 Speakers,1740,2022-08-31,In-store,12:54:23
+1741,Arduino,1741,2022-06-19,Online,01:36:27
+1742,ASUS Zenbook S 13,1742,2022-08-31,Online,04:34:52
+1743,Galaxy Tablet,1743,2022-05-28,In-store,00:18:19
+1744,Oculus VR,1744,2022-01-21,Online,04:28:50
+1745,ASUS Zenbook S 13,1745,2022-11-09,Online,07:50:28
+1746,Harmony Microphone,1746,2022-10-28,In-store,15:13:16
+1747,Apple 2023 Mac Mini M2 Chip,1747,2022-04-22,In-store,04:23:40
+1748,Oculus VR,1748,2022-12-24,Online,17:05:14
+1749,Galaxy Tablet,1749,2022-05-20,In-store,11:36:33
+1750,AIMES Mens Watches,1750,2022-08-26,Online,16:49:51
+1751,Oculus VR,1751,2022-05-02,Online,07:48:19
+1752,Galaxy Tablet,1752,2022-06-09,Online,20:16:07
+1753,Galaxy Tablet,1753,2022-07-11,Online,13:18:19
+1754,2022 Macbook Pro,1754,2022-05-10,In-store,04:03:03
+1755,Apple Smartwatch,1755,2022-08-25,In-store,01:04:35
+1756,Bose QuietComfort Earbuds II,1756,2022-05-14,In-store,14:59:37
+1757,Bose QuietComfort Earbuds II,1757,2022-06-20,Online,14:38:32
+1758,2022 Macbook Pro,1758,2022-07-04,Online,21:40:23
+1759,Oculus VR,1759,2022-12-28,Online,12:16:34
+1760,AIMES Mens Watches,1760,2022-02-22,Online,00:51:44
+1761,Harmony Microphone,1761,2022-05-25,In-store,10:28:36
+1762,Apple 2023 Mac Mini M2 Chip,1762,2022-10-26,Online,13:42:16
+1763,AIMES Mens Watches,1763,2022-05-04,Online,18:34:41
+1764,Bose QuietComfort Earbuds II,1764,2022-11-10,In-store,20:04:26
+1765,Apple Smartwatch,1765,2022-04-03,Online,13:51:04
+1766,Apple Smartwatch,1766,2022-11-13,Online,20:00:22
+1767,Galaxy Tablet,1767,2022-03-26,Online,06:29:51
+1768,JBL Charge 4 Speakers,1768,2022-04-05,In-store,19:35:47
+1769,AIMES Mens Watches,1769,2022-07-08,Online,19:16:52
+1770,2022 Macbook Pro,1770,2022-12-08,In-store,23:55:12
+1771,ASUS Zenbook S 13,1771,2022-10-25,In-store,13:53:30
+1772,Bose QuietComfort Earbuds II,1772,2022-09-10,In-store,19:32:15
+1773,Galaxy Tablet,1773,2022-01-24,In-store,02:25:17
+1774,Bose Headphones,1774,2022-05-19,Online,13:12:45
+1775,AirPods,1775,2022-12-23,Online,08:05:11
+1776,Arduino,1776,2022-02-16,Online,18:06:30
+1777,Oculus VR,1777,2022-04-02,In-store,05:06:32
+1778,Bose QuietComfort Earbuds II,1778,2022-03-26,In-store,15:08:35
+1779,Harmony Microphone,1779,2022-07-09,Online,11:31:14
+1780,Harmony Microphone,1780,2022-04-09,Online,07:49:55
+1781,Bose QuietComfort Earbuds II,1781,2022-02-11,In-store,11:31:50
+1782,Raspberry Pi,1782,2022-10-26,In-store,06:21:02
+1783,Oculus VR,1783,2022-03-22,Online,10:39:21
+1784,Apple 2023 Mac Mini M2 Chip,1784,2022-06-26,Online,22:06:13
+1785,AIMES Mens Watches,1785,2022-07-24,Online,18:22:17
+1786,Bose QuietComfort Earbuds II,1786,2022-11-27,In-store,14:54:53
+1787,ASUS Zenbook S 13,1787,2022-03-16,In-store,16:17:04
+1788,Bose Headphones,1788,2022-09-16,Online,11:21:25
+1789,2022 Macbook Pro,1789,2022-02-22,Online,22:58:41
+1790,Apple 2023 Mac Mini M2 Chip,1790,2022-06-27,In-store,16:59:02
+1791,Galaxy Tablet,1791,2022-06-20,Online,07:59:53
+1792,AIMES Mens Watches,1792,2022-06-24,In-store,13:21:28
+1793,AIMES Mens Watches,1793,2022-08-19,In-store,10:14:38
+1794,Apple Ipad,1794,2022-01-03,In-store,23:42:28
+1795,AIMES Mens Watches,1795,2022-06-05,In-store,14:42:26
+1796,Bose Headphones,1796,2022-10-13,Online,05:55:50
+1797,Bose Headphones,1797,2022-08-15,Online,23:59:18
+1798,AIMES Mens Watches,1798,2022-08-16,Online,03:08:24
+1799,AIMES Mens Watches,1799,2022-04-11,Online,17:34:25
+1800,Apple Smartwatch,1800,2022-05-15,In-store,04:47:47
+1801,ASUS Zenbook S 13,1801,2022-02-22,In-store,02:47:14
+1802,Apple 2023 Mac Mini M2 Chip,1802,2022-06-15,In-store,22:04:43
+1803,Galaxy Tablet,1803,2022-04-17,Online,12:56:30
+1804,Apple Ipad,1804,2022-06-12,In-store,07:20:47
+1805,Oculus VR,1805,2022-04-30,In-store,11:09:20
+1806,Apple Ipad,1806,2022-11-24,Online,06:02:14
+1807,AIMES Mens Watches,1807,2022-01-15,Online,18:04:46
+1808,Arduino,1808,2022-10-18,Online,05:41:57
+1809,Apple Ipad,1809,2022-04-22,Online,15:19:59
+1810,Galaxy Tablet,1810,2022-04-25,In-store,20:16:22
+1811,Bose QuietComfort Earbuds II,1811,2022-08-11,Online,17:38:32
+1812,JBL Charge 4 Speakers,1812,2022-09-04,In-store,06:56:54
+1813,Arduino,1813,2022-03-08,In-store,13:26:19
+1814,Raspberry Pi,1814,2022-03-07,In-store,09:00:44
+1815,Bose Headphones,1815,2022-03-14,In-store,18:20:51
+1816,Bose Headphones,1816,2022-07-21,In-store,19:44:34
+1817,AIMES Mens Watches,1817,2022-04-26,Online,16:55:37
+1818,Arduino,1818,2022-11-20,In-store,11:02:30
+1819,2022 Macbook Pro,1819,2022-07-08,In-store,01:51:11
+1820,Apple Smartwatch,1820,2022-01-02,In-store,15:15:57
+1821,AIMES Mens Watches,1821,2022-11-08,In-store,20:34:13
+1822,Galaxy Tablet,1822,2022-09-27,Online,19:51:11
+1823,Raspberry Pi,1823,2022-07-02,In-store,00:53:44
+1824,Harmony Microphone,1824,2022-06-14,In-store,02:12:02
+1825,Galaxy Tablet,1825,2022-05-03,Online,10:36:18
+1826,Galaxy Tablet,1826,2022-08-25,In-store,03:59:55
+1827,Galaxy Tablet,1827,2022-03-26,Online,17:06:46
+1828,Apple Smartwatch,1828,2022-05-06,Online,15:07:38
+1829,Apple Ipad,1829,2022-01-10,Online,07:36:55
+1830,Arduino,1830,2022-08-01,Online,03:00:08
+1831,JBL Charge 4 Speakers,1831,2022-07-18,Online,21:10:25
+1832,AirPods,1832,2022-12-22,In-store,08:12:54
+1833,2022 Macbook Pro,1833,2022-09-15,In-store,00:40:11
+1834,AIMES Mens Watches,1834,2022-06-15,Online,01:41:48
+1835,Galaxy Tablet,1835,2022-04-27,In-store,08:50:25
+1836,Galaxy Tablet,1836,2022-10-20,In-store,07:32:16
+1837,Bose QuietComfort Earbuds II,1837,2022-12-17,In-store,03:32:52
+1838,2022 Macbook Pro,1838,2022-05-30,Online,06:42:08
+1839,Arduino,1839,2022-04-05,In-store,10:25:25
+1840,Bose QuietComfort Earbuds II,1840,2022-06-07,In-store,06:01:15
+1841,Oculus VR,1841,2022-09-13,Online,19:56:12
+1842,Apple Ipad,1842,2022-05-18,Online,01:26:48
+1843,2022 Macbook Pro,1843,2022-01-24,Online,21:27:50
+1844,JBL Charge 4 Speakers,1844,2022-03-22,Online,20:23:39
+1845,2022 Macbook Pro,1845,2022-01-29,In-store,11:42:02
+1846,Apple 2023 Mac Mini M2 Chip,1846,2022-08-09,Online,18:54:37
+1847,Apple Ipad,1847,2022-10-21,In-store,08:30:48
+1848,Apple Smartwatch,1848,2022-01-20,In-store,08:53:54
+1849,Arduino,1849,2022-12-24,In-store,23:35:23
+1850,Raspberry Pi,1850,2022-05-06,Online,17:29:21
+1851,Apple 2023 Mac Mini M2 Chip,1851,2022-09-04,Online,09:01:13
+1852,JBL Charge 4 Speakers,1852,2022-11-20,Online,16:01:26
+1853,JBL Charge 4 Speakers,1853,2022-05-08,Online,07:45:27
+1854,Oculus VR,1854,2022-10-10,Online,22:29:57
+1855,AirPods,1855,2022-01-30,Online,14:01:38
+1856,Bose Headphones,1856,2022-03-15,Online,23:50:06
+1857,AIMES Mens Watches,1857,2022-04-21,In-store,06:56:53
+1858,Bose QuietComfort Earbuds II,1858,2022-03-26,Online,15:34:23
+1859,2022 Macbook Pro,1859,2022-10-30,Online,21:47:25
+1860,Apple Ipad,1860,2022-12-23,Online,21:00:40
+1861,2022 Macbook Pro,1861,2022-07-12,Online,17:27:40
+1862,Arduino,1862,2022-06-25,Online,20:07:02
+1863,Harmony Microphone,1863,2022-09-02,In-store,23:42:05
+1864,Arduino,1864,2022-08-07,In-store,02:29:36
+1865,Bose QuietComfort Earbuds II,1865,2022-12-18,Online,18:55:35
+1866,Bose Headphones,1866,2022-10-12,Online,00:33:33
+1867,Oculus VR,1867,2022-10-10,Online,14:52:55
+1868,Apple Ipad,1868,2022-06-08,Online,13:47:31
+1869,Apple 2023 Mac Mini M2 Chip,1869,2022-07-21,Online,15:56:13
+1870,Oculus VR,1870,2022-06-15,Online,05:30:14
+1871,AIMES Mens Watches,1871,2022-08-14,In-store,02:00:03
+1872,Bose Headphones,1872,2022-11-08,In-store,11:02:23
+1873,ASUS Zenbook S 13,1873,2022-10-10,In-store,10:13:18
+1874,ASUS Zenbook S 13,1874,2022-09-09,Online,10:14:18
+1875,JBL Charge 4 Speakers,1875,2022-08-17,Online,06:44:58
+1876,Apple Ipad,1876,2022-05-29,Online,11:08:10
+1877,AIMES Mens Watches,1877,2022-07-20,In-store,10:15:27
+1878,Harmony Microphone,1878,2022-08-21,Online,09:15:00
+1879,AirPods,1879,2022-03-16,In-store,08:03:26
+1880,2022 Macbook Pro,1880,2022-05-14,In-store,05:04:03
+1881,Arduino,1881,2022-11-10,Online,00:31:37
+1882,2022 Macbook Pro,1882,2022-04-12,Online,03:43:19
+1883,ASUS Zenbook S 13,1883,2022-08-30,Online,16:55:08
+1884,Arduino,1884,2022-04-16,In-store,00:26:33
+1885,Apple Smartwatch,1885,2022-11-11,In-store,19:54:11
+1886,2022 Macbook Pro,1886,2022-10-24,Online,06:08:02
+1887,Apple Smartwatch,1887,2022-12-01,Online,04:44:19
+1888,Arduino,1888,2022-12-19,Online,21:08:29
+1889,Oculus VR,1889,2022-10-13,In-store,23:00:08
+1890,Raspberry Pi,1890,2022-04-06,Online,20:23:53
+1891,Raspberry Pi,1891,2022-12-16,In-store,12:30:05
+1892,Oculus VR,1892,2022-01-19,In-store,18:56:41
+1893,AIMES Mens Watches,1893,2022-05-23,In-store,11:40:52
+1894,Harmony Microphone,1894,2022-11-07,In-store,03:27:35
+1895,Bose Headphones,1895,2022-01-04,In-store,07:49:00
+1896,JBL Charge 4 Speakers,1896,2022-03-29,In-store,21:43:21
+1897,AirPods,1897,2022-05-30,In-store,07:23:11
+1898,Arduino,1898,2022-12-09,Online,02:34:40
+1899,Apple Ipad,1899,2022-12-27,In-store,14:52:59
+1900,Bose QuietComfort Earbuds II,1900,2022-11-06,Online,02:39:13
+1901,Arduino,1901,2022-06-18,Online,07:21:39
+1902,Harmony Microphone,1902,2022-05-06,In-store,03:52:18
+1903,Harmony Microphone,1903,2022-10-04,Online,09:37:13
+1904,Galaxy Tablet,1904,2022-10-18,In-store,05:01:13
+1905,Apple 2023 Mac Mini M2 Chip,1905,2022-04-28,Online,19:07:15
+1906,Harmony Microphone,1906,2022-12-26,In-store,09:51:23
+1907,Bose QuietComfort Earbuds II,1907,2022-01-25,Online,01:26:19
+1908,ASUS Zenbook S 13,1908,2022-03-14,Online,15:31:21
+1909,AIMES Mens Watches,1909,2022-07-19,Online,22:39:49
+1910,JBL Charge 4 Speakers,1910,2022-04-09,In-store,11:59:27
+1911,Raspberry Pi,1911,2022-01-06,In-store,09:29:43
+1912,JBL Charge 4 Speakers,1912,2022-08-18,Online,17:07:54
+1913,Bose Headphones,1913,2022-08-29,In-store,13:02:47
+1914,Oculus VR,1914,2022-10-15,In-store,21:03:36
+1915,Bose Headphones,1915,2022-02-06,Online,18:08:17
+1916,AIMES Mens Watches,1916,2022-02-16,In-store,19:30:55
+1917,Apple Smartwatch,1917,2022-11-17,Online,07:37:44
+1918,Bose QuietComfort Earbuds II,1918,2022-07-08,In-store,05:16:38
+1919,Bose Headphones,1919,2022-02-28,In-store,22:07:51
+1920,JBL Charge 4 Speakers,1920,2022-06-20,Online,17:17:24
+1921,JBL Charge 4 Speakers,1921,2022-06-30,In-store,04:51:31
+1922,Arduino,1922,2022-05-10,In-store,07:15:34
+1923,Apple Ipad,1923,2022-07-11,Online,16:09:15
+1924,Bose QuietComfort Earbuds II,1924,2022-05-26,In-store,00:09:33
+1925,Galaxy Tablet,1925,2022-02-23,In-store,12:30:00
+1926,ASUS Zenbook S 13,1926,2022-07-01,In-store,09:42:45
+1927,AirPods,1927,2022-04-13,Online,10:01:36
+1928,Bose Headphones,1928,2022-12-19,In-store,19:14:52
+1929,Bose QuietComfort Earbuds II,1929,2022-02-18,Online,20:29:40
+1930,Arduino,1930,2022-10-27,In-store,23:00:21
+1931,Apple Ipad,1931,2022-03-13,Online,13:13:17
+1932,ASUS Zenbook S 13,1932,2022-01-09,In-store,13:37:39
+1933,Bose QuietComfort Earbuds II,1933,2022-01-23,In-store,05:03:41
+1934,Bose Headphones,1934,2022-02-15,In-store,09:29:40
+1935,Harmony Microphone,1935,2022-02-02,Online,20:43:09
+1936,Apple 2023 Mac Mini M2 Chip,1936,2022-01-14,Online,15:32:31
+1937,Apple Smartwatch,1937,2022-11-17,Online,01:27:12
+1938,AIMES Mens Watches,1938,2022-11-02,Online,18:36:11
+1939,Oculus VR,1939,2022-05-07,In-store,04:39:01
+1940,Oculus VR,1940,2022-08-18,In-store,22:30:44
+1941,Apple 2023 Mac Mini M2 Chip,1941,2022-03-29,In-store,09:53:09
+1942,ASUS Zenbook S 13,1942,2022-09-14,Online,19:40:43
+1943,Bose QuietComfort Earbuds II,1943,2022-08-22,In-store,22:38:35
+1944,Apple Ipad,1944,2022-04-17,In-store,05:33:03
+1945,Bose Headphones,1945,2022-01-19,Online,16:48:09
+1946,2022 Macbook Pro,1946,2022-12-29,In-store,19:47:46
+1947,Bose QuietComfort Earbuds II,1947,2022-02-05,In-store,02:43:52
+1948,Arduino,1948,2022-03-18,Online,08:51:15
+1949,JBL Charge 4 Speakers,1949,2022-11-21,Online,19:42:38
+1950,Oculus VR,1950,2022-07-17,Online,21:01:25
+1951,Galaxy Tablet,1951,2022-06-14,In-store,17:00:25
+1952,AirPods,1952,2022-01-15,Online,07:36:42
+1953,Oculus VR,1953,2022-09-21,Online,20:21:38
+1954,Galaxy Tablet,1954,2022-04-22,In-store,17:06:02
+1955,2022 Macbook Pro,1955,2022-03-29,In-store,20:14:21
+1956,AIMES Mens Watches,1956,2022-11-11,Online,02:29:31
+1957,Apple 2023 Mac Mini M2 Chip,1957,2022-08-04,Online,15:44:01
+1958,Bose Headphones,1958,2022-07-26,Online,09:40:19
+1959,AIMES Mens Watches,1959,2022-12-15,In-store,04:37:52
+1960,Bose Headphones,1960,2022-03-07,Online,01:32:00
+1961,Raspberry Pi,1961,2022-09-13,Online,07:30:48
+1962,AirPods,1962,2022-06-15,In-store,11:28:30
+1963,Arduino,1963,2022-07-13,Online,15:18:31
+1964,Bose QuietComfort Earbuds II,1964,2022-03-07,In-store,22:00:52
+1965,Raspberry Pi,1965,2022-01-06,Online,09:17:06
+1966,Bose QuietComfort Earbuds II,1966,2022-04-18,In-store,02:49:27
+1967,Raspberry Pi,1967,2022-11-15,Online,09:19:24
+1968,AirPods,1968,2022-02-20,In-store,08:41:12
+1969,2022 Macbook Pro,1969,2022-07-05,Online,20:36:09
+1970,ASUS Zenbook S 13,1970,2022-06-23,Online,11:45:44
+1971,Apple 2023 Mac Mini M2 Chip,1971,2022-08-03,In-store,03:38:41
+1972,2022 Macbook Pro,1972,2022-08-19,Online,14:17:44
+1973,Bose Headphones,1973,2022-04-16,In-store,20:08:40
+1974,Bose QuietComfort Earbuds II,1974,2022-02-08,In-store,19:48:06
+1975,JBL Charge 4 Speakers,1975,2022-06-29,In-store,10:34:39
+1976,Apple 2023 Mac Mini M2 Chip,1976,2022-10-29,Online,11:20:00
+1977,Apple 2023 Mac Mini M2 Chip,1977,2022-01-19,Online,02:55:27
+1978,AirPods,1978,2022-11-22,In-store,23:49:48
+1979,Oculus VR,1979,2022-03-06,Online,06:41:23
+1980,Oculus VR,1980,2022-12-18,Online,19:14:00
+1981,Harmony Microphone,1981,2022-07-17,In-store,06:34:58
+1982,AirPods,1982,2022-08-04,In-store,01:59:29
+1983,ASUS Zenbook S 13,1983,2022-01-08,In-store,04:51:59
+1984,2022 Macbook Pro,1984,2022-04-18,In-store,04:06:34
+1985,2022 Macbook Pro,1985,2022-10-17,Online,19:19:38
+1986,JBL Charge 4 Speakers,1986,2022-09-28,Online,19:39:03
+1987,Bose Headphones,1987,2022-05-18,Online,22:05:07
+1988,Apple Ipad,1988,2022-09-06,Online,06:52:40
+1989,Bose QuietComfort Earbuds II,1989,2022-04-05,In-store,03:39:41
+1990,2022 Macbook Pro,1990,2022-12-12,Online,23:16:27
+1991,Raspberry Pi,1991,2022-10-30,In-store,07:09:09
+1992,Apple 2023 Mac Mini M2 Chip,1992,2022-07-04,In-store,05:42:36
+1993,Apple Ipad,1993,2022-03-21,In-store,05:14:02
+1994,2022 Macbook Pro,1994,2022-02-05,Online,05:03:04
+1995,AIMES Mens Watches,1995,2022-01-04,In-store,04:29:26
+1996,Galaxy Tablet,1996,2022-05-08,In-store,07:11:25
+1997,JBL Charge 4 Speakers,1997,2022-08-31,Online,14:43:26
+1998,JBL Charge 4 Speakers,1998,2022-03-27,Online,17:24:41
+1999,JBL Charge 4 Speakers,1999,2022-08-17,In-store,03:02:13
+2000,Bose Headphones,2000,2022-06-20,Online,07:30:49
+2001,Apple Smartwatch,2001,2022-01-12,Online,19:49:49
